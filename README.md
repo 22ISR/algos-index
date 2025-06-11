@@ -2,7 +2,7 @@
 
 ## Содержание
 1. [Как выполнять задания](#как-выполнять-задания)
-2. [Лидерборд](./algos-leaderboard.xlsx)
+2. [Лидерборд](https://docs.google.com/spreadsheets/d/1222J8MhHo16lLjgih-ziETVz92cts-iA/edit?usp=sharing&ouid=114980174016056670914&rtpof=true&sd=true)
 3. [Документация](#документация)
 4. [Полезное](#полезное)
 
