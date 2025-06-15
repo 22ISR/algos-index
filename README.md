@@ -1,13 +1,9 @@
 # Основы алгоритмизации и программирования
 
 ## Содержание
-1. [Как выполнять задания](#как-выполнять-задания)
-2. [Лидерборд](https://docs.google.com/spreadsheets/d/1222J8MhHo16lLjgih-ziETVz92cts-iA/edit?usp=sharing&ouid=114980174016056670914&rtpof=true&sd=true)
-3. [Документация](#документация)
-4. [Полезное](#полезное)
-
-## Как выполнять задания
-TBD
+1. [Лидерборд](https://docs.google.com/spreadsheets/d/1222J8MhHo16lLjgih-ziETVz92cts-iA/edit?usp=sharing&ouid=114980174016056670914&rtpof=true&sd=true)
+2. [Документация](#документация)
+3. [Полезное](#полезное)
 
 ## Документация
 1. [Официальная дока](https://docs.python.org/3/)
