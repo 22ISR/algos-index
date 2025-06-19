@@ -1,7 +1,7 @@
 # Основы алгоритмизации и программирования
 
 ## Содержание
-1. [Лидерборд](https://docs.google.com/spreadsheets/d/1222J8MhHo16lLjgih-ziETVz92cts-iA/edit?usp=sharing&ouid=114980174016056670914&rtpof=true&sd=true)
+1. [Лидерборд](https://docs.google.com/spreadsheets/d/1Is7llhHla0TRrURTePKKx9diM_QjFqxq/edit?usp=sharing&ouid=114980174016056670914&rtpof=true&sd=true)
 2. [Документация](#документация)
 3. [Полезное](#полезное)
 
